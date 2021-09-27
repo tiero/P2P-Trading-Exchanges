@@ -47,6 +47,7 @@ Any that I am missing?
 - [r/BitMarket](https://reddit.com/r/BitMarket) <-- Take seriously the risks and recommendations in the [GSX Safe Trading Guide](https://reddit.com/r/giftcardexchange/comments/2gig0n/)
 - [BitHalo](https://bithalo.org) software [**NO KYC**]
 - [SideSwap](https://sideswap.io) Swap Market [**NO KYC**] <-- P2P Trading on Liquid network, between L-BTC and stablecoins (i.e., either USDT, or EurX)
+- [TDEX Network](https://tdex.network) DEX protocol for Liquid Network <-- Open source protocol for Market Makers to advertise their liquidity and for Traders to discover and swap Liquid assets in a non-custodial way.
 
 **Altcoin-only P2P Trading exchanges**
 
